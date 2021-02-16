@@ -59,4 +59,4 @@ const findMouse = (handLength, handWidth) => {
 }
 
 
-findMouse(90, 80);
+findMouse(95, 80);
