@@ -1,0 +1,826 @@
+[
+  {
+    "mouse": "ASUS ROG Gladius",
+    "dimensions": {
+      "length": 12.6,
+      "width": 6.7,
+      "height": 4.5
+    }
+  },
+  {
+    "mouse": "ASUS ROG Gladius II Origin",
+    "dimensions": {
+      "length": 12.6,
+      "width": 6.7,
+      "height": 4.5
+    }
+  },
+  {
+    "mouse": "Asus ROG Pugio",
+    "dimensions": {
+      "length": 12,
+      "width": 6.8,
+      "height": 3.7
+    }
+  },
+  {
+    "mouse": "Cooler Master Mastermouse MM530",
+    "dimensions": {
+      "length": 12.48,
+      "width": 6.04,
+      "height": 4.02
+    }
+  },
+  {
+    "mouse": "Cooler Master MasterMouse Pro L",
+    "dimensions": {
+      "length": 12.5,
+      "width": 6.8,
+      "height": 3.8
+    }
+  },
+  {
+    "mouse": "Coolermaster MM710",
+    "dimensions": {
+      "length": 11.7,
+      "width": 6.35,
+      "height": 3.8
+    }
+  },
+  {
+    "mouse": "Corsair Gaming M65 Pro",
+    "dimensions": {
+      "length": 11.8,
+      "width": 7.2,
+      "height": 3.9
+    }
+  },
+  {
+    "mouse": "Corsair Harpoon",
+    "dimensions": {
+      "length": 11.5,
+      "width": 6.83,
+      "height": 4.04
+    }
+  },
+  {
+    "mouse": "Cougar Revenger S",
+    "dimensions": {
+      "length": 13,
+      "width": 6.5,
+      "height": 4.3
+    }
+  },
+  {
+    "mouse": "Dream Machines DM1 Pro",
+    "dimensions": {
+      "length": 12.6,
+      "width": 6.8,
+      "height": 3.9
+    }
+  },
+  {
+    "mouse": "ENDGAME XM1",
+    "dimensions": {
+      "length": 12.21,
+      "width": 6.58,
+      "height": 3.82
+    }
+  },
+  {
+    "mouse": "Finalmouse 2016 - Classic Ergo",
+    "dimensions": {
+      "length": 13.7,
+      "width": 5.6,
+      "height": 5.3
+    }
+  },
+  {
+    "mouse": "Finalmouse Ninja Air58",
+    "dimensions": {
+      "length": 12.8,
+      "width": 6.01,
+      "height": 4
+    }
+  },
+  {
+    "mouse": "Finalmouse Scream One",
+    "dimensions": {
+      "length": 12.7,
+      "width": 6.1,
+      "height": 3.9
+    }
+  },
+  {
+    "mouse": "Finalmouse UL Phantom",
+    "dimensions": {
+      "length": 12.8,
+      "width": 6.01,
+      "height": 4
+    }
+  },
+  {
+    "mouse": "Finalmouse Ultralight 2",
+    "dimensions": {
+      "length": 11.6,
+      "width": 5.3,
+      "height": 3.57
+    }
+  },
+  {
+    "mouse": "FinalMouse Ultralight Pro",
+    "dimensions": {
+      "length": 12.8,
+      "width": 6.016,
+      "height": 4
+    }
+  },
+  {
+    "mouse": "Fnatic Flick 2",
+    "dimensions": {
+      "length": 13.1,
+      "width": 7.02,
+      "height": 4
+    }
+  },
+  {
+    "mouse": "G-Wolves Hati",
+    "dimensions": {
+      "length": 12.42,
+      "width": 5.78,
+      "height": 3.96
+    }
+  },
+  {
+    "mouse": "G-Wolves Skoll",
+    "dimensions": {
+      "length": 12.5,
+      "width": 6.8,
+      "height": 4.2
+    }
+  },
+  {
+    "mouse": "G-Wolves Skoll Mini",
+    "dimensions": {
+      "length": 11.75,
+      "width": 56,
+      "height": 4
+    }
+  },
+  {
+    "mouse": "Glorious Model D",
+    "dimensions": {
+      "length": 12.8,
+      "width": 6.3,
+      "height": 4.2
+    }
+  },
+  {
+    "mouse": "Glorious Model D-",
+    "dimensions": {
+      "length": 12,
+      "width": 6.1,
+      "height": 4
+    }
+  },
+  {
+    "mouse": "Glorious Model O",
+    "dimensions": {
+      "length": 12.8,
+      "width": 5.9,
+      "height": 3.75
+    }
+  },
+  {
+    "mouse": "Glorious Model O Wireless",
+    "dimensions": {
+      "length": 12.8,
+      "width": 5.9,
+      "height": 3.75
+    }
+  },
+  {
+    "mouse": "Glorious Model O-",
+    "dimensions": {
+      "length": 12,
+      "width": 5.8,
+      "height": 3.6
+    }
+  },
+  {
+    "mouse": "HyperX Haste",
+    "dimensions": {
+      "length": 12.42,
+      "width": 6.68,
+      "height": 3.82
+    }
+  },
+  {
+    "mouse": "Logitech G MX518",
+    "dimensions": {
+      "length": 13.1,
+      "width": 7.3,
+      "height": 4.3
+    }
+  },
+  {
+    "mouse": "Logitech G Pro Gaming Mouse",
+    "dimensions": {
+      "length": 11.6,
+      "width": 6.2,
+      "height": 3.8
+    }
+  },
+  {
+    "mouse": "Logitech G Pro HERO Gaming Mouse",
+    "dimensions": {
+      "length": 11.6,
+      "width": 6.2,
+      "height": 3.8
+    }
+  },
+  {
+    "mouse": "Logitech G Pro Wireless",
+    "dimensions": {
+      "length": 12.5,
+      "width": 6.35,
+      "height": 4
+    }
+  },
+  {
+    "mouse": "Logitech G Pro X Superlight",
+    "dimensions": {
+      "length": 12.5,
+      "width": 6.35,
+      "height": 4
+    }
+  },
+  {
+    "mouse": "Logitech G100s",
+    "dimensions": {
+      "length": 11.7,
+      "width": 6.3,
+      "height": 3.7
+    }
+  },
+  {
+    "mouse": "Logitech G303",
+    "dimensions": {
+      "length": 11.5,
+      "width": 6.5,
+      "height": 3.7
+    }
+  },
+  {
+    "mouse": "Logitech G305",
+    "dimensions": {
+      "length": 11.66,
+      "width": 6.215,
+      "height": 3.82
+    }
+  },
+  {
+    "mouse": "Logitech G400",
+    "dimensions": {
+      "length": 13.1,
+      "width": 7.3,
+      "height": 4.3
+    }
+  },
+  {
+    "mouse": "Logitech G400s",
+    "dimensions": {
+      "length": 13.1,
+      "width": 7.3,
+      "height": 4.3
+    }
+  },
+  {
+    "mouse": "Logitech G402",
+    "dimensions": {
+      "length": 13.6,
+      "width": 7.2,
+      "height": 4.1
+    }
+  },
+  {
+    "mouse": "Logitech G403",
+    "dimensions": {
+      "length": 12.4,
+      "width": 6.8,
+      "height": 4.3
+    }
+  },
+  {
+    "mouse": "Logitech G502",
+    "dimensions": {
+      "length": 13.2,
+      "width": 7.5,
+      "height": 4
+    }
+  },
+  {
+    "mouse": "Logitech G600",
+    "dimensions": {
+      "length": 11.8,
+      "width": 7.5,
+      "height": 4.1
+    }
+  },
+  {
+    "mouse": "Logitech G602",
+    "dimensions": {
+      "length": 13.9,
+      "width": 8.3,
+      "height": 4.4
+    }
+  },
+  {
+    "mouse": "Logitech G604",
+    "dimensions": {
+      "length": 13,
+      "width": 6.3,
+      "height": 4.5
+    }
+  },
+  {
+    "mouse": "Logitech G703",
+    "dimensions": {
+      "length": 12.4,
+      "width": 6.8,
+      "height": 4.3
+    }
+  },
+  {
+    "mouse": "Logitech G703 Hero",
+    "dimensions": {
+      "length": 12.4,
+      "width": 6.8,
+      "height": 4.3
+    }
+  },
+  {
+    "mouse": "Logitech G903",
+    "dimensions": {
+      "length": 13.03,
+      "width": 6.65,
+      "height": 4.04
+    }
+  },
+  {
+    "mouse": "Mad Catz RAT4",
+    "dimensions": {
+      "length": 9.5,
+      "width": 6.5,
+      "height": 3.5
+    }
+  },
+  {
+    "mouse": "Mionix Avior 7000",
+    "dimensions": {
+      "length": 12.5,
+      "width": 6.5,
+      "height": 3.7
+    }
+  },
+  {
+    "mouse": "Mionix Castor",
+    "dimensions": {
+      "length": 12.2,
+      "width": 7,
+      "height": 4
+    }
+  },
+  {
+    "mouse": "Nixeus REVEL",
+    "dimensions": {
+      "length": 12.6,
+      "width": 6.8,
+      "height": 3.9
+    }
+  },
+  {
+    "mouse": "nkey g007",
+    "dimensions": {
+      "length": 10.4,
+      "width": 5.8,
+      "height": 3.8
+    }
+  },
+  {
+    "mouse": "Razer Abyssus",
+    "dimensions": {
+      "length": 11.47,
+      "width": 6.3,
+      "height": 3.73
+    }
+  },
+  {
+    "mouse": "Razer Atheris",
+    "dimensions": {
+      "length": 9.9,
+      "width": 6.28,
+      "height": 3.41
+    }
+  },
+  {
+    "mouse": "Razer Basilisk",
+    "dimensions": {
+      "length": 12.4,
+      "width": 7.5,
+      "height": 4.3
+    }
+  },
+  {
+    "mouse": "Razer Basilisk Ultimate",
+    "dimensions": {
+      "length": 13,
+      "width": 6,
+      "height": 4.2
+    }
+  },
+  {
+    "mouse": "Razer DeathAdder Elite",
+    "dimensions": {
+      "length": 12.7,
+      "width": 7,
+      "height": 4.4
+    }
+  },
+  {
+    "mouse": "Razer DeathAdder Mini",
+    "dimensions": {
+      "length": 12.7,
+      "width": 6.17,
+      "height": 4.27
+    }
+  },
+  {
+    "mouse": "Razer Lancehead TE",
+    "dimensions": {
+      "length": 11.7,
+      "width": 7.1,
+      "height": 3.8
+    }
+  },
+  {
+    "mouse": "Razer Mamba Elite",
+    "dimensions": {
+      "length": 12.5,
+      "width": 6.99,
+      "height": 4.33
+    }
+  },
+  {
+    "mouse": "Razer Naga MMOG",
+    "dimensions": {
+      "length": 11.6,
+      "width": 7,
+      "height": 4.6
+    }
+  },
+  {
+    "mouse": "Razer Naga Trinity",
+    "dimensions": {
+      "length": 11.9,
+      "width": 7.4,
+      "height": 4.3
+    }
+  },
+  {
+    "mouse": "Razer Viper",
+    "dimensions": {
+      "length": 12.67,
+      "width": 6.62,
+      "height": 3.781
+    }
+  },
+  {
+    "mouse": "Razer Viper Mini",
+    "dimensions": {
+      "length": 11.83,
+      "width": 5.35,
+      "height": 3.83
+    }
+  },
+  {
+    "mouse": "Razer Viper Ultimate",
+    "dimensions": {
+      "length": 12.67,
+      "width": 6.62,
+      "height": 3.781
+    }
+  },
+  {
+    "mouse": "Roccat AIMO",
+    "dimensions": {
+      "length": 12.5,
+      "width": 8.5,
+      "height": 4
+    }
+  },
+  {
+    "mouse": "Roccat Kain 100 AIMO",
+    "dimensions": {
+      "length": 12.4,
+      "width": 6.5,
+      "height": 4.3
+    }
+  },
+  {
+    "mouse": "Roccat Kain 200 AIMO",
+    "dimensions": {
+      "length": 12.4,
+      "width": 6.5,
+      "height": 4.3
+    }
+  },
+  {
+    "mouse": "Roccat Kone Pure",
+    "dimensions": {
+      "length": 11.5,
+      "width": 7,
+      "height": 3.9
+    }
+  },
+  {
+    "mouse": "Roccat Kone Pure Optical",
+    "dimensions": {
+      "length": 11.5,
+      "width": 7,
+      "height": 3.9
+    }
+  },
+  {
+    "mouse": "Roccat Leadr",
+    "dimensions": {
+      "length": 12.6,
+      "width": 8,
+      "height": 4.5
+    }
+  },
+  {
+    "mouse": "Roccat Lua",
+    "dimensions": {
+      "length": 11.5,
+      "width": 6.5,
+      "height": 3.4
+    }
+  },
+  {
+    "mouse": "Roccat Nyth",
+    "dimensions": {
+      "length": 12.9,
+      "width": 7.8,
+      "height": 4.4
+    }
+  },
+  {
+    "mouse": "Steelseries Kana V2",
+    "dimensions": {
+      "length": 12.4,
+      "width": 6.4,
+      "height": 3.7
+    }
+  },
+  {
+    "mouse": "SteelSeries Kinzu v3",
+    "dimensions": {
+      "length": 11.7,
+      "width": 6.3,
+      "height": 3.5
+    }
+  },
+  {
+    "mouse": "SteelSeries Rival 100",
+    "dimensions": {
+      "length": 12,
+      "width": 6.8,
+      "height": 3.7
+    }
+  },
+  {
+    "mouse": "SteelSeries Rival 110",
+    "dimensions": {
+      "length": 12.06,
+      "width": 6.8,
+      "height": 3.812
+    }
+  },
+  {
+    "mouse": "SteelSeries Rival 300",
+    "dimensions": {
+      "length": 13.3,
+      "width": 7,
+      "height": 4.5
+    }
+  },
+  {
+    "mouse": "SteelSeries Rival 310",
+    "dimensions": {
+      "length": 12.76,
+      "width": 7.1,
+      "height": 4.198
+    }
+  },
+  {
+    "mouse": "Steelseries Rival 500",
+    "dimensions": {
+      "length": 11.9,
+      "width": 7.8,
+      "height": 4.3
+    }
+  },
+  {
+    "mouse": "SteelSeries Rival 600",
+    "dimensions": {
+      "length": 13.1,
+      "width": 6.9,
+      "height": 4.3
+    }
+  },
+  {
+    "mouse": "SteelSeries Rival 650",
+    "dimensions": {
+      "length": 13.1,
+      "width": 6.9,
+      "height": 4.3
+    }
+  },
+  {
+    "mouse": "Steelseries Rival 700",
+    "dimensions": {
+      "length": 12.5,
+      "width": 6.9,
+      "height": 4.2
+    }
+  },
+  {
+    "mouse": "SteelSeries Rival 710",
+    "dimensions": {
+      "length": 12.48,
+      "width": 7.62,
+      "height": 4.17
+    }
+  },
+  {
+    "mouse": "SteelSeries Sensei",
+    "dimensions": {
+      "length": 12.55,
+      "width": 6.83,
+      "height": 3.87
+    }
+  },
+  {
+    "mouse": "SteelSeries Sensei 310",
+    "dimensions": {
+      "length": 12.51,
+      "width": 7.039,
+      "height": 3.895
+    }
+  },
+  {
+    "mouse": "SteelSeries Sensei Raw",
+    "dimensions": {
+      "length": 12.55,
+      "width": 6.83,
+      "height": 3.87
+    }
+  },
+  {
+    "mouse": "Xtrfy M4",
+    "dimensions": {
+      "length": 12.07,
+      "width": 5.76,
+      "height": 3.94
+    }
+  },
+  {
+    "mouse": "Xtrfy M42",
+    "dimensions": {
+      "length": 11.6,
+      "width": 5.52,
+      "height": 3.78
+    }
+  },
+  {
+    "mouse": "Zaunkoenig M1K",
+    "dimensions": {
+      "length": 7.9,
+      "width": 6,
+      "height": 3
+    }
+  },
+  {
+    "mouse": "Zowie EC1-A",
+    "dimensions": {
+      "length": 12.8,
+      "width": 6.9,
+      "height": 4.3
+    }
+  },
+  {
+    "mouse": "Zowie EC1-B",
+    "dimensions": {
+      "length": 12.8,
+      "width": 6.9,
+      "height": 4.3
+    }
+  },
+  {
+    "mouse": "Zowie EC2 eVo",
+    "dimensions": {
+      "length": 12,
+      "width": 6.4,
+      "height": 4
+    }
+  },
+  {
+    "mouse": "Zowie EC2-A",
+    "dimensions": {
+      "length": 12,
+      "width": 6.4,
+      "height": 4
+    }
+  },
+  {
+    "mouse": "Zowie EC2-B",
+    "dimensions": {
+      "length": 12,
+      "width": 6.4,
+      "height": 4
+    }
+  },
+  {
+    "mouse": "Zowie FK1",
+    "dimensions": {
+      "length": 12.8,
+      "width": 6,
+      "height": 3.7
+    }
+  },
+  {
+    "mouse": "Zowie FK1+",
+    "dimensions": {
+      "length": 12.8,
+      "width": 6.2,
+      "height": 3.8
+    }
+  },
+  {
+    "mouse": "Zowie FK2",
+    "dimensions": {
+      "length": 12.4,
+      "width": 5.8,
+      "height": 3.6
+    }
+  },
+  {
+    "mouse": "Zowie S1",
+    "dimensions": {
+      "length": 12.6,
+      "width": 6.6,
+      "height": 3.9
+    }
+  },
+  {
+    "mouse": "Zowie S2",
+    "dimensions": {
+      "length": 12.2,
+      "width": 6.4,
+      "height": 3.8
+    }
+  },
+  {
+    "mouse": "Zowie ZA11",
+    "dimensions": {
+      "length": 12.8,
+      "width": 6.7,
+      "height": 4
+    }
+  },
+  {
+    "mouse": "Zowie ZA12",
+    "dimensions": {
+      "length": 12.4,
+      "width": 6.4,
+      "height": 3.9
+    }
+  },
+  {
+    "mouse": "Zowie ZA13",
+    "dimensions": {
+      "length": 12,
+      "width": 6.2,
+      "height": 3.8
+    }
+  },
+  {
+    "mouse": "Zygee Vaxen",
+    "dimensions": {
+      "length": 12,
+      "width": 5.9,
+      "height": 3.9
+    }
+  }
+]
