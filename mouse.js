@@ -58,5 +58,12 @@ const findMouse = (handLength, handWidth) => {
 
 }
 
+const prompt = require("prompt-sync")();
 
-findMouse(95, 80);
+const input1 = prompt("Input 1? ");
+const input2 = prompt("Input 2? ");
+
+
+findMouse(input1, input2);
+
+// findMouse(95, 80);
